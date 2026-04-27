@@ -1,0 +1,6 @@
+{
+  "name": "MyNotes App",
+  "description": "A modern, production-grade note-taking platform for text, audio, and image notes with Supabase integration.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["auth", "database", "storage"]
+}
