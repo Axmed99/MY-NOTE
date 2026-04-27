@@ -1,6 +1,6 @@
-# MyNotes - Modern AI-Powered Note-Taking Workspace
+# NeuralNotes - Futuristic AI-Powered SaaS Workspace
 
-MyNotes is a clean, modern, and production-ready workspace for capturing your ideas as text, voice recordings, and images. Built with React and powered by Supabase, it features end-to-end security, private storage, and a seamless cross-device synchronization experience.
+NeuralNotes is a high-end, production-grade workspace for capturing ideas as text, voice, and images. Featuring a futuristic dark mode, glassmorphism, and deep gradient aesthetics, it's designed to surpass industry standards like Notion and Linear for speed and style.
 
 ## ✨ Features
 
